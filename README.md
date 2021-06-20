@@ -1,5 +1,5 @@
 # JurgisApp
-Business Card Type app
+Business card-type app
 
 -- version 0.1
 # Implemented widgets
