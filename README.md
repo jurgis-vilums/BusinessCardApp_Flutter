@@ -2,7 +2,7 @@
 Business Card Type app
 
 -- version 0.1
-Implemented widgets
+# Implemented widgets
  - CircleAvatar
    - AssetImage
    - Center
@@ -15,5 +15,5 @@ Implemented widgets
    - EdgeInsets
    - CrossAxisAlignment
 
-Implemented Functionality
+# Implemented Functionality
  - onPressed counter +=1
